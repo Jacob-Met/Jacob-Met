@@ -2,7 +2,7 @@
 
 Biomedical researcher and AI-native systems builder. I work the loop **measurement → structured data → computation / ML → clearer biological and clinical understanding**, on an MD/PhD path toward neurology and neurotechnology.
 
-Undergraduate at **CSULB** (BS Computer Science, BA Physics, Biology minor; expected June 2028). Current research centers on stroke-related gait asymmetry and fall risk — motion capture, sensors, and ML on accelerometer time series — alongside prior computational biophysics / AI-for-proteins and behavioral biology lab work.
+Undergraduate at **CSULB** (BS Computer Science, BA Physics, Biology minor; expected June 2028). **BUILD Scholar** (mentor Dr. Vennila Krishnan) with concurrent gait / fall-risk research spanning CSULB CRAB and Chapman’s Gait Rehabilitation Lab — motion capture, wearable IMUs, and ML on accelerometer time series — alongside prior computational biophysics / AI-for-proteins and behavioral biology lab work.
 
 I treat **human–AI collaboration as engineering practice**: clear architecture, versioned interfaces, and docs that agents and humans can both follow — not one-off demos.
 
@@ -17,15 +17,15 @@ Optional craft project (not the research lead): **[uma-sim](https://github.com/J
 
 ### Focus areas
 
-- Neurotechnology, gait / sensing, clinically motivated ML
-- Research software architecture (plugins, sealed sessions, operator UX)
-- AI-native tooling (MCP, session brokers, agent-shaped APIs)
-- Computational modeling as a bridge between measurement and biology
+- Neurotechnology, gait / sensing, clinically motivated ML  
+- Research software architecture (plugins, sealed sessions, operator UX)  
+- AI-native tooling (MCP, session brokers, agent-shaped APIs)  
+- Computational modeling as a bridge between measurement and biology  
 
 ### Elsewhere
 
-- LinkedIn: [jacob-scott-metoyer-15b701352](https://www.linkedin.com/in/jacob-scott-metoyer-15b701352)
-- Location: Long Beach, CA
+- LinkedIn: [jacob-scott-metoyer-15b701352](https://www.linkedin.com/in/jacob-scott-metoyer-15b701352)  
+- Location: Long Beach, CA  
 
 ### How I build (honest framing)
 
