@@ -1,32 +1,35 @@
-### Hi — I'm Jacob Scott-Metoyer
+# Hi, I'm Jacob Scott-Metoyer
 
-Biomedical researcher and AI-native systems builder. I work the loop **measurement → structured data → computation / ML → clearer biological and clinical understanding**, on an MD/PhD path toward neurology and neurotechnology.
+I'm a biomedical researcher and research-software builder working across **computer science, physics, and biology**. I care about the full path from measurement to meaning:
 
-Undergraduate at **CSULB** (BS Computer Science, BA Physics, Biology minor; expected June 2028). **BUILD Scholar** (mentor Dr. Vennila Krishnan) with concurrent gait / fall-risk research spanning CSULB CRAB and Chapman’s Gait Rehabilitation Lab — motion capture, wearable IMUs, and ML on accelerometer time series — alongside prior computational biophysics / AI-for-proteins and behavioral biology lab work.
+> physical signal → structured data → computation and machine learning → biological insight → clinical use
 
-I treat **human–AI collaboration as engineering practice**: clear architecture, versioned interfaces, and docs that agents and humans can both follow — not one-off demos.
+I'm an undergraduate at **California State University, Long Beach**, pursuing a B.S. in Computer Science, a B.A. in Physics, and a minor in Biology (expected Spring 2028). I'm also a **CSULB BUILD Scholar** preparing for an MD/PhD career at the intersection of neuroscience, clinical neurology, and machine learning.
 
-### Flagship public work
+## What I'm working on
 
-| Repo | What it is | Why it matters here |
-|------|------------|---------------------|
-| **[CaptureSuite](https://github.com/Jacob-Met/CaptureSuite)** | Windows-first multimodal research capture — daemon, versioned worker plugins, sealed sessions, PySide6 operator UI | Biomedical / research-engineering lead; measurement → sealed research packages |
-| **[canvaspilot](https://github.com/Jacob-Met/canvaspilot)** | Agentic Canvas LMS tooling — MCP + CLI, stay-open SSO session broker (or token), structured Canvas REST tools | AI-native systems proof: agents against real campus workflows |
+- **Stroke gait and mobile assessment:** Vicon motion-capture processing, gait-event and asymmetry analysis, IMU validation, participant data collection, and Python automation of MATLAB workflows across CSULB and Chapman University research groups. Smartphone sensing and machine-learning methods are the next-stage direction.
+- **Surgical ergonomics:** video-based motion-tracking software and multimodal analysis involving EMG, video, heart rate, and motion sensors through Chapman's Gait Rehabilitation and Research Lab and its UCI urology collaboration.
+- **Multimodal research tooling:** modular capture systems spanning cameras, biosignals, IMUs, radar, synchronized acquisition, quality control, and reproducible downstream analysis.
 
-Optional craft project (not the research lead): **[uma-sim](https://github.com/Jacob-Met/uma-sim)** — unofficial Umamusume career simulator (Rust) with web UI / API / MCP wrappers. Systems and UI practice only.
+## Selected software
 
-### Focus areas
+| Project | What it does |
+| --- | --- |
+| **[CaptureSuite](https://github.com/Jacob-Met/CaptureSuite)** | Windows-first multimodal research capture with a daemon, versioned worker plugins, sealed sessions, simulation support, and a PySide6 operator interface. |
+| **[CanvasPilot](https://github.com/Jacob-Met/canvaspilot)** | MCP and CLI tooling for Canvas LMS, including a local session broker for real SSO/MFA environments and structured agent-facing operations. |
+| **[uma-sim](https://github.com/Jacob-Met/uma-sim)** | An unofficial Rust career simulator with a web interface, REST API, CLI, and MCP wrappers—a systems and interface engineering project. |
 
-- Neurotechnology, gait / sensing, clinically motivated ML  
-- Research software architecture (plugins, sealed sessions, operator UX)  
-- AI-native tooling (MCP, session brokers, agent-shaped APIs)  
-- Computational modeling as a bridge between measurement and biology  
+## Research background
 
-### Elsewhere
+My earlier work includes computational biophysics and protein-analysis pipelines at Georgetown University Medical Center, and behavioral-neuroscience research at CSULB involving automated tracking, biological assays, and data analysis.
 
-- LinkedIn: [jacob-scott-metoyer-15b701352](https://www.linkedin.com/in/jacob-scott-metoyer-15b701352)  
-- Location: Long Beach, CA  
+Across these projects, I've worked with Python, MATLAB, OpenCV/MediaPipe workflows, C/C++, Rust, scientific data pipelines, computer vision, motion capture, EMG, IMUs, radar sensing, CAD, and rapid prototyping.
 
-### How I build (honest framing)
+## How I build
 
-I own product direction, architecture, and integration decisions. Implementation is **AI-assisted by design** — specs, plugin contracts, and contributor/agent docs (`AGENTS.md` where present) make collaboration with coding agents reproducible. I do not claim every line was typed by hand; I do claim responsibility for what ships.
+I treat human–AI collaboration as an engineering discipline: explicit architecture, versioned interfaces, evidence-producing workflows, and documentation that both people and coding agents can follow. Implementation is AI-assisted by design; I own the problem framing, system architecture, integration decisions, verification, and what ultimately ships.
+
+My long-term question is: **what information about the brain, nervous system, and neurological disease is already present in our measurements but still invisible to us—and how can computation help reveal and use it?**
+
+[LinkedIn](https://www.linkedin.com/in/jacob-scott-metoyer-15b701352) · Long Beach, California
