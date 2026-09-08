@@ -1,35 +1,47 @@
-# Hi, I'm Jacob Scott-Metoyer
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/profile-banner-light.svg">
+  <img alt="Jacob Scott-Metoyer — building the bridge from signals to understanding" src="./assets/profile-banner-light.svg">
+</picture>
 
-I'm a biomedical researcher and research-software builder working across **computer science, physics, and biology**. I care about the full path from measurement to meaning:
+### I build instruments for questions that do not fit inside one discipline.
 
-> physical signal → structured data → computation and machine learning → biological insight → clinical use
+My work sits where **biomedical signals, research software, and machine intelligence** meet. I want to understand how a measurement was physically produced, make it computationally useful, and keep sight of what it means for biology and patients.
 
-I'm an undergraduate at **California State University, Long Beach**, pursuing a B.S. in Computer Science, a B.A. in Physics, and a minor in Biology (expected Spring 2028). I'm also a **CSULB BUILD Scholar** preparing for an MD/PhD career at the intersection of neuroscience, clinical neurology, and machine learning.
+**CSULB BUILD Scholar** · Computer Science + Physics + Biology · MD/PhD direction · Long Beach, California
 
-## What I'm working on
+## The through-line
 
-- **Stroke gait and mobile assessment:** Vicon motion-capture processing, gait-event and asymmetry analysis, IMU validation, participant data collection, and Python automation of MATLAB workflows across CSULB and Chapman University research groups. Smartphone sensing and machine-learning methods are the next-stage direction.
-- **Surgical ergonomics:** video-based motion-tracking software and multimodal analysis involving EMG, video, heart rate, and motion sensors through Chapman's Gait Rehabilitation and Research Lab and its UCI urology collaboration.
-- **Multimodal research tooling:** modular capture systems spanning cameras, biosignals, IMUs, radar, synchronized acquisition, quality control, and reproducible downstream analysis.
+```text
+real-world signal → trustworthy capture → structured evidence → model → scientific insight
+                         ↑                                         ↓
+                         └──────── improve the instrument ─────────┘
+```
 
-## Selected software
+That loop appears in gait analysis, surgical ergonomics, multimodal capture, computer vision—and in the way I design software for researchers and AI collaborators.
 
-| Project | What it does |
+## Things I am building
+
+| Project | The idea |
 | --- | --- |
-| **[CaptureSuite](https://github.com/Jacob-Met/CaptureSuite)** | Windows-first multimodal research capture with a daemon, versioned worker plugins, sealed sessions, simulation support, and a PySide6 operator interface. |
-| **[CanvasPilot](https://github.com/Jacob-Met/canvaspilot)** | MCP and CLI tooling for Canvas LMS, including a local session broker for real SSO/MFA environments and structured agent-facing operations. |
-| **[uma-sim](https://github.com/Jacob-Met/uma-sim)** | An unofficial Rust career simulator with a web interface, REST API, CLI, and MCP wrappers—a systems and interface engineering project. |
+| **[CaptureSuite](https://github.com/Jacob-Met/CaptureSuite)** | Make multimodal experiments reproducible: one capture daemon, versioned device workers, sealed sessions, and downstream QC/analysis instead of a new one-off stack for every sensor. |
+| **[CanvasPilot](https://github.com/Jacob-Met/canvaspilot)** | Give agents a structured Canvas interface that works with real SSO/MFA sessions—MCP and CLI tools backed by a local browser-session broker. |
+| **[uma-sim](https://github.com/Jacob-Met/uma-sim)** | Explore simulation and interface design in Rust through an unofficial career simulator with web, REST, CLI, and MCP surfaces. |
 
-## Research background
+## Right now
 
-My earlier work includes computational biophysics and protein-analysis pipelines at Georgetown University Medical Center, and behavioral-neuroscience research at CSULB involving automated tracking, biological assays, and data analysis.
+- Processing Vicon motion capture, validating IMUs, analyzing gait events/asymmetry, and moving MATLAB research workflows into Python for stroke-gait work across CSULB and Chapman.
+- Building video motion-tracking software for multimodal surgical-ergonomics research through Chapman's collaboration with UCI Urology.
+- Designing extensible capture infrastructure for cameras, EMG, IMUs, radar, and future lab hardware. Smartphone sensing and gait ML are the next stage—not a finished claim.
 
-Across these projects, I've worked with Python, MATLAB, OpenCV/MediaPipe workflows, C/C++, Rust, scientific data pipelines, computer vision, motion capture, EMG, IMUs, radar sensing, CAD, and rapid prototyping.
+Before this, I worked on protein-analysis pipelines in computational biophysics at Georgetown University Medical Center and automated behavioral tracking in a CSULB neuroscience lab.
 
-## How I build
+## The toolkit is secondary to the problem
 
-I treat human–AI collaboration as an engineering discipline: explicit architecture, versioned interfaces, evidence-producing workflows, and documentation that both people and coding agents can follow. Implementation is AI-assisted by design; I own the problem framing, system architecture, integration decisions, verification, and what ultimately ships.
+`Python` · `MATLAB` · `Rust` · `C/C++` · `OpenCV / MediaPipe` · `PySide6` · `MCP / REST` · `Vicon` · `IMUs` · `EMG` · `radar` · `CAD / 3D printing`
 
-My long-term question is: **what information about the brain, nervous system, and neurological disease is already present in our measurements but still invisible to us—and how can computation help reveal and use it?**
+I use AI-assisted development deliberately: architecture, interfaces, evidence, and acceptance criteria stay explicit so both humans and coding agents can contribute without making the work unauditable. I own the direction, integration decisions, verification, and what ships.
 
-[LinkedIn](https://www.linkedin.com/in/jacob-scott-metoyer-15b701352) · Long Beach, California
+Outside the lab, I write long-form fantasy, build things with CAD and 3D printing, and spend probably too much time thinking about *Kingdom*.
+
+**[LinkedIn](https://www.linkedin.com/in/jacob-scott-metoyer-15b701352)**
