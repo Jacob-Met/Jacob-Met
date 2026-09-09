@@ -1,25 +1,41 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-banner-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/profile-banner-light.svg">
-  <img alt="Jacob Scott-Metoyer — adaptive software and AI systems" src="./assets/profile-banner-light.svg">
+  <img alt="Jacob Metoyer ? science, fiction, software, and making" src="./assets/profile-banner-light.svg">
 </picture>
 
-### I'm a researcher who builds systems, tools, and experiments.
+## I'm Jacob Metoyer. I research, build, write, and make things.
 
-My focus lately is **adaptive AI systems**: finding better ways for models to interact with software, tools, machines, and each other—then preserving what works so the next task does not start from zero.
+Biology and medicine are lasting commitments for me, alongside computation and AI. I'm studying at CSULB and hope to pursue an **MD/PhD**. My research experience spans behavior and neurobiology, protein modeling, rehabilitation, and tools for studying human movement.
 
-I care more about working systems than demos: persistent state, reusable capabilities, observable results, and architectures that can evolve without throwing away what they already know how to do.
+I also follow interests that don't fit neatly into a research title. I create the **Spire of Octaves** world and related fiction as **M. Schauz**, build software, work on cosplay and physical props, and spend a lot of time with anime, manga, and games. Those aren't separate people or a collection of job keywords. They're different parts of the same ongoing body of work.
 
-**[CaptureSuite](https://github.com/Jacob-Met/CaptureSuite)** is the clearest public intersection of those interests: a modular platform for multimodal research capture, sealed experimental sessions, and reproducible downstream analysis.
+### Fiction & worlds ? M. Schauz
 
-```text
-observe → attempt → judge the result → keep the useful parts → improve the next attempt
-```
+**M. Schauz is my creative byline.** Spire of Octaves is a writing-first world project: long-form fiction, shorts, lore, visual development, and experiments toward interactive work. Its stories include *Seamwork*, *Veria*, and *A Cold Reminder*, alongside the main Spire narrative. Drafts, published work, and future ambitions are not interchangeable.
 
-I'm studying computer science, physics, and biology at CSULB, but this profile is where I build. Most of the interesting work is private, unfinished, or moving quickly; the public repositories below are snapshots, not the whole picture.
+[Seamwork on Royal Road](https://www.royalroad.com/fiction/183255/seamwork)
 
-I use AI-assisted development deliberately and judge the work by the systems, artifacts, and evidence it produces—not by who typed each line.
+### Selected public software
 
-Outside code: long-form fantasy and worldbuilding, CAD and 3D printing, games, anime, and *Kingdom*.
+| Project | What it is |
+|---|---|
+| [CaptureSuite](https://github.com/Jacob-Met/CaptureSuite) | Windows-first research capture software: worker plugins, sealed sessions, and downstream analysis workflows. |
+| [CanvasPilot](https://github.com/Jacob-Met/canvaspilot) | Canvas LMS tools through a Python CLI and MCP interface. Use only with authorized access and appropriate approval for write actions. |
+| [uma-sim](https://github.com/Jacob-Met/uma-sim) | An unofficial Rust-based Umamusume career simulator with a browser interface and developer-facing tools. |
 
-**[LinkedIn](https://www.linkedin.com/in/jacob-scott-metoyer-15b701352)**
+These are public project entry points, not a claim that every feature is production-qualified. Research data, collaborators' unpublished work, and private source remain private.
+
+### Making & interests
+
+Cosplay, CAD, 3D printing, fictional worlds, anime, manga, and games belong here too?not just in an "outside work" footnote.
+
+[Cosplay ? @tornadocos](https://www.instagram.com/tornadocos/) ? [MyAnimeList ? TornadoZW](https://myanimelist.net/profile/TornadoZW)
+
+### How I use AI
+
+I use AI deliberately in research, writing, design, and software development. I don't claim to have hand-written every line or hand-made every asset. Direction, selection, revision, checking, and responsibility for what I release are still mine; collaborators and source material deserve their own credit.
+
+I don't think a tool label is a verdict on quality. Read the fiction, inspect or run the software, and examine the methods behind research. The work should earn its claims on those terms.
+
+[LinkedIn](https://www.linkedin.com/in/jacob-scott-metoyer-15b701352)
