@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1400" height="360" viewBox="0 0 1400 360" role="img" aria-labelledby="title desc">
   <title id="title">Jacob Metoyer — science, fiction, software, and making</title>
-  <desc id="desc">Jacob Metoyer: one person, many kinds of work.</desc>
+  <desc id="desc">Jacob Metoyer: A life in works..</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#f7fbff"/>
@@ -21,10 +21,10 @@
   <circle cx="1240" cy="58" r="180" fill="#7651c9" opacity="0.06"/>
   <circle cx="1040" cy="340" r="240" fill="#078d7c" opacity="0.055"/>
 
-  <text x="72" y="76" fill="#087b70" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="700" letter-spacing="4">SCIENCE · FICTION · SOFTWARE · MAKING</text>
+  <text x="72" y="76" fill="#087b70" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="700" letter-spacing="4">AN OPEN NOTEBOOK</text>
   <text x="72" y="155" fill="#17243a" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="58" font-weight="760">Jacob Metoyer</text>
-  <text x="72" y="210" fill="#415570" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="28" font-weight="430">one person, many kinds of work</text>
-  <text x="72" y="282" fill="#62738a" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="18">RESEARCH  ·  M. SCHAUZ  ·  TORNADOCOS</text>
+  <text x="72" y="210" fill="#415570" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="28" font-weight="430">A life in works.</text>
+  <text x="72" y="282" fill="#62738a" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="18">jacob-met.github.io</text>
 
   <g transform="translate(885 108)" fill="none" stroke="url(#signal)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
     <path d="M0 82h34l16-32 24 72 28-112 31 144 27-96 24 48h36"/>

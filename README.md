@@ -1,43 +1,19 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-banner-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/profile-banner-light.svg">
-  <img alt="Jacob Metoyer - science, fiction, software, and making" src="./assets/profile-banner-light.svg">
+  <img alt="Jacob Metoyer — science, fiction, software, and making" src="./assets/profile-banner-light.svg">
 </picture>
 
-## I'm Jacob Metoyer. I research, build, write, and make things.
+## Hi, I'm Jacob.
 
-**[Explore the connected body of work](https://jacob-met.github.io/)** · [Research](https://jacob-met.github.io/research.html) · [M. Schauz](https://jacob-met.github.io/spire.html) · [Making](https://jacob-met.github.io/making.html)
+I'm interested in what becomes visible when you look a little closer. In research, that has meant studying behavior, working with protein trajectories, and building ways to examine human movement. I'm studying at CSULB, with biology and medicine at the center of a longer-term hope to pursue an MD/PhD.
 
-Biology and medicine are lasting commitments for me, alongside computation and AI. I'm studying at CSULB and hope to pursue an **MD/PhD**. My research experience spans behavior and neurobiology, protein modeling, rehabilitation, and tools for studying human movement.
+Some of that work takes the shape of software. [CaptureSuite](https://github.com/Jacob-Met/CaptureSuite) brings research capture into structured sessions that can be inspected and analyzed. Other projects follow different interests: [CanvasPilot](https://github.com/Jacob-Met/canvaspilot) is a practical interface to Canvas, while [uma-sim](https://github.com/Jacob-Met/uma-sim) explores an unofficial simulation of an Umamusume career. Their repositories are the place to find the code, supported behavior, and current limitations.
 
-I also follow interests that don't fit neatly into a research title. I create the **Spire of Octaves** world and related fiction as **M. Schauz**, build software, work on cosplay and physical props, and spend a lot of time with anime, manga, and games. Those aren't separate people or a collection of job keywords. They're different parts of the same ongoing body of work.
+I also write as **M. Schauz**. In *Spire of Octaves*, the people keeping an imagined city alive matter as much as the city itself: its labor, its households, and the obligations that come with being useful. [*Seamwork*](https://www.royalroad.com/fiction/183255/seamwork) offers a way in—a marriage cart, a road through the Greel, and a man whose plan to remain unremarkable is becoming difficult.
 
-### Fiction & worlds - M. Schauz
+Sometimes a character becomes something I can make and wear. I share cosplay as [tornadocos](https://www.instagram.com/tornadocos/); the anime, manga, and games that hold my attention have a home on [MyAnimeList](https://myanimelist.net/profile/TornadoZW) too.
 
-**M. Schauz is my creative byline.** Spire of Octaves is a writing-first world project: long-form fiction, shorts, lore, visual development, and experiments toward interactive work. Its stories include *Seamwork*, *Veria*, and *A Cold Reminder*, alongside the main Spire narrative. Drafts, published work, and future ambitions are not interchangeable.
+AI is part of how I develop and revise the work. I make the direction, contributions, checks, and credits explicit in the [process notes](https://jacob-met.github.io/process.html). The interesting part is still what the work does, says, or helps someone understand.
 
-[Seamwork on Royal Road](https://www.royalroad.com/fiction/183255/seamwork)
-
-### Selected public software
-
-| Project | What it is |
-|---|---|
-| [CaptureSuite](https://github.com/Jacob-Met/CaptureSuite) | Windows-first research capture software: worker plugins, sealed sessions, and downstream analysis workflows. |
-| [CanvasPilot](https://github.com/Jacob-Met/canvaspilot) | Canvas LMS tools through a Python CLI and MCP interface. Use only with authorized access and appropriate approval for write actions. |
-| [uma-sim](https://github.com/Jacob-Met/uma-sim) | An unofficial Rust-based Umamusume career simulator with a browser interface and developer-facing tools. |
-
-These are public project entry points, not a claim that every feature is production-qualified. Research data, collaborators' unpublished work, and private source remain private.
-
-### Making & interests
-
-Cosplay, CAD, 3D printing, fictional worlds, anime, manga, and games belong here too - not just in an "outside work" footnote.
-
-[Cosplay - @tornadocos](https://www.instagram.com/tornadocos/) - [MyAnimeList - TornadoZW](https://myanimelist.net/profile/TornadoZW)
-
-### How I use AI
-
-I use AI deliberately in research, writing, design, and software development. I don't claim to have hand-written every line or hand-made every asset. Direction, selection, revision, checking, and responsibility for what I release are still mine; collaborators and source material deserve their own credit.
-
-I don't think a tool label is a verdict on quality. Read the fiction, inspect or run the software, and examine the methods behind research. The work should earn its claims on those terms.
-
-[LinkedIn](https://www.linkedin.com/in/jacob-scott-metoyer-15b701352)
+**[Explore the website →](https://jacob-met.github.io/)** · [What I'm working on](https://jacob-met.github.io/now.html) · [LinkedIn](https://www.linkedin.com/in/jacob-scott-metoyer-15b701352)
