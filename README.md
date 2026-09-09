@@ -6,6 +6,8 @@
 
 ## I'm Jacob Metoyer. I research, build, write, and make things.
 
+**[Explore the connected body of work](https://jacob-met.github.io/)** · [Research](https://jacob-met.github.io/research.html) · [M. Schauz](https://jacob-met.github.io/spire.html) · [Making](https://jacob-met.github.io/making.html)
+
 Biology and medicine are lasting commitments for me, alongside computation and AI. I'm studying at CSULB and hope to pursue an **MD/PhD**. My research experience spans behavior and neurobiology, protein modeling, rehabilitation, and tools for studying human movement.
 
 I also follow interests that don't fit neatly into a research title. I create the **Spire of Octaves** world and related fiction as **M. Schauz**, build software, work on cosplay and physical props, and spend a lot of time with anime, manga, and games. Those aren't separate people or a collection of job keywords. They're different parts of the same ongoing body of work.
