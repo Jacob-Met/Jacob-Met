@@ -22,4 +22,4 @@ I am interested in research collaborations and selective consulting engagements 
 
 Outside research, I enjoy cosplay, physical making, music, anime, and games. Those interests are part of my life, not a substitute for the research or a sales pitch.
 
-**[Research and selected work →](https://jacob-met.github.io/)** · [Research](https://jacob-met.github.io/research.html) · [Software](https://jacob-met.github.io/computing.html) · [LinkedIn](https://www.linkedin.com/in/jacob-scott-metoyer-15b701352)
+**[Research and selected work →](https://jacobmetoyer.com/)** · [Academic research](https://jacobmetoyer.com/research.html) · [AI systems](https://jacobmetoyer.com/ai-systems.html) · [Software](https://jacobmetoyer.com/computing.html) · [LinkedIn](https://www.linkedin.com/in/jacob-scott-metoyer-15b701352)
