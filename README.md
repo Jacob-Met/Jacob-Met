@@ -18,7 +18,7 @@ I am interested in research collaborations and selective consulting engagements 
 
 ### Selected software
 
-[CaptureSuite](https://github.com/Jacob-Met/CaptureSuite) is research-capture software organized around structured sessions, quality control, and downstream analysis. [CanvasPilot](https://github.com/Jacob-Met/canvaspilot) provides a Python interface to authorized Canvas workflows. [uma-sim](https://github.com/Jacob-Met/uma-sim) is an unofficial Umamusume career-simulation project. Each repository documents its supported scope, evidence, limitations, and credits.
+[CaptureSuite](https://github.com/Jacob-Met/CaptureSuite) is research-capture software organized around structured sessions, quality control, and downstream analysis. [CanvasPilot](https://github.com/Jacob-Met/canvaspilot) provides a Python interface to authorized Canvas workflows. [uma-sim](https://github.com/Jacob-Met/uma-sim) is an unofficial Umamusume career-simulation project. [TowerOps](https://github.com/Jacob-Met/TowerOps) is a synthetic air-traffic decision-support demo built with Strands Agents, where deterministic checks gate every simulated state change behind conflict projection, approval, and readback. Each repository documents its supported scope, evidence, limitations, and credits.
 
 Outside research, I enjoy cosplay, physical making, music, anime, and games. Those interests are part of my life, not a substitute for the research or a sales pitch.
 
