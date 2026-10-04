@@ -6,22 +6,29 @@
 
 ## Hi, I'm Jacob.
 
-I'm an undergraduate at California State University, Long Beach, studying computer science and physics with a minor in biology. My research interests span living systems, human movement, and the computational methods we use to understand them. I am a BUILD Scholar and hope to pursue an MD/PhD.
+CS and physics undergraduate (biology minor) at **CSULB**, BUILD Scholar, aiming for an MD/PhD. I build scientific software and agentic AI systems, and I care most about measurement: tools whose results you can inspect, reproduce, and check.
 
-My research experience includes behavior and neurobiology, protein molecular dynamics, gait and rehabilitation, and collaborative surgical-ergonomics work. I am especially interested in measurement, reproducible analysis, and scientific software that makes complex data easier to inspect. These are contributions to collaborative research, not claims of independent clinical validation.
+**Research:** behavior and neurobiology · protein molecular dynamics · gait and rehabilitation · collaborative surgical-ergonomics work.
+**Independent work:** human–AI collaboration and agent systems — building them, studying where they fail, and finding when a procedure can be reused reliably instead of reasoned through again.
 
-### Independent AI systems research
+### Featured work
 
-Alongside my academic work, I pursue an independent research practice that began as a technical hobby: studying human–AI collaboration, agentic systems, and how AI changes knowledge and creative work. I build experimental systems, examine failures, and investigate when a procedure can be reused reliably rather than reasoned through again. This is an ongoing research line, not a claim of peer-reviewed findings or institutional endorsement.
+| Project | What it is |
+|---|---|
+| [**workflow-checks**](https://github.com/Jacob-Met/workflow-checks) | Evidence-first back-office checks: freight detention and carrier invoice audit, PT authorization worklist, utility bill exceptions. Python stdlib, tested in CI, synthetic data. [Live sample outputs →](https://jacobmetoyer.com/workflow-checks/) |
+| [**CaptureSuite**](https://github.com/Jacob-Met/CaptureSuite) | Windows-first multimodal research capture: daemon, versioned worker plugins, sealed sessions, PySide6 operator UI. |
+| [**CanvasPilot**](https://github.com/Jacob-Met/canvaspilot) | Agentic Canvas LMS tools for LLMs — an MCP server + CLI driven by your own authenticated browser session. |
+| [**TowerOps**](https://github.com/Jacob-Met/TowerOps) | Synthetic air-traffic decision-support demo (Strands Agents) where deterministic checks gate every state change behind conflict projection, approval, and readback. |
+| [**uma-sim**](https://github.com/Jacob-Met/uma-sim) | Unofficial Umamusume career simulator in Rust. |
 
-I am interested in research collaborations and selective consulting engagements that extend these questions into real organizations. The focus is empirical: understand the existing process, build a bounded alternative, and compare quality, capability, time, cost, and human intervention. Prospective applications are distinct from completed client studies.
+**Hackathon builds:** [testpilot](https://github.com/Jacob-Met/testpilot) (agent that writes, runs and repairs regression tests for a diff) · [ledgerly](https://github.com/Jacob-Met/ledgerly) (invoice + payout copilot with a human approval gate) · [tastetable](https://github.com/Jacob-Met/tastetable) (weekly outing planner for seniors and caregivers on Qloo taste signals).
 
-### Selected software
+Each repository documents its scope, evidence, and limitations. Research contributions are collaborative, not claims of independent clinical validation.
 
-[CaptureSuite](https://github.com/Jacob-Met/CaptureSuite) is research-capture software organized around structured sessions, quality control, and downstream analysis. [CanvasPilot](https://github.com/Jacob-Met/canvaspilot) provides agentic Canvas LMS tools for LLMs — an MCP server + CLI driven by your authenticated browser session. [uma-sim](https://github.com/Jacob-Met/uma-sim) is an unofficial Umamusume career simulator built in Rust. [TowerOps](https://github.com/Jacob-Met/TowerOps) is a synthetic air-traffic decision-support demo built with Strands Agents, where deterministic checks gate every simulated state change behind conflict projection, approval, and readback. Each repository documents its supported scope, evidence, limitations, and credits.
+### Working together
 
-Outside research, I enjoy cosplay, physical making, music, anime, and games. Those interests are part of my life, not a substitute for the research or a sales pitch.
+Open to research collaborations and scoped pilots: understand an existing process, build a bounded alternative, and measure quality, time, cost, and human intervention against it.
 
-**[Research and selected work →](https://jacobmetoyer.com/)** · [LinkedIn](https://www.linkedin.com/in/jacob-metoyer-15b701352)
+Outside the lab: cosplay, physical making, music, anime, games — and fiction as M. Schauz.
 
-
+**[jacobmetoyer.com →](https://jacobmetoyer.com/)** · [LinkedIn](https://www.linkedin.com/in/jacob-metoyer-15b701352)
