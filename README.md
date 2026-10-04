@@ -29,6 +29,6 @@ Each repository documents its scope, evidence, and limitations. Research contrib
 
 Open to research collaborations and scoped pilots: understand an existing process, build a bounded alternative, and measure quality, time, cost, and human intervention against it.
 
-Outside the lab: cosplay, physical making, music, anime, games — and fiction as M. Schauz.
+Outside the lab: cosplay, physical making, music, anime, games.
 
 **[jacobmetoyer.com →](https://jacobmetoyer.com/)** · [LinkedIn](https://www.linkedin.com/in/jacob-metoyer-15b701352)
