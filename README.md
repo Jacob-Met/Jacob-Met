@@ -13,7 +13,6 @@ CS + physics at Cal State Long Beach (biology minor), BUILD Scholar working towa
 - **[Hamon](https://hamon.works/)** — my studio: tools for AI, experiences for people.
 - **Hamon Engine** *(private source)* — a Rust + wgpu engine built for AI agents to drive: typed ECS commands, replay and agent control. Current work is a humanoid character creator whose quality is held by numeric gates (seams, penetration, stretch, gait) rather than eyeballed renders — species bodies, tails and ears with spring physics, and strand fur.
 - **[Wildside](https://jacobmetoyer.com/wildside/)** — enter the living worlds of the places around you. Playable in the browser.
-- **[Lanternwake](https://jacobmetoyer.com/games/lanternwake/)** — small Hamon Engine browser game (WebGPU).
 
 ### Recent public work
 
