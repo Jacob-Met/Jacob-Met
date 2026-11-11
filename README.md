@@ -6,23 +6,31 @@
 
 ## Hi, I'm Jacob.
 
-CS + physics at Cal State Long Beach (biology minor), BUILD Scholar working toward MD/PhD training. I do research in movement and measurement, and I direct AI agents to build research software, an engine, games and tools. Checks come before claims: runnable demos, public source where possible, and explicit limits.
+CS + physics at Cal State Long Beach (biology minor), BUILD Scholar working toward MD/PhD training. Everything I make is research: how do we observe a system, test an idea, and learn from what doesn't fit? I work on that in academic labs and independently through [Hamon](https://hamon.works/), where I direct AI agents to build engines, worlds and instruments. Checks come before claims: runnable demos, public source where possible, and explicit limits.
 
 ### Research
 
-- **Gait and rehabilitation:** helped with participant sessions, labeled motion-capture markers, and fixed errors in gait-analysis code.
-- **Surgical ergonomics:** built video-tracking workflows and helped record and analyze muscle activity, heart rate and movement. [Overview](https://jacobmetoyer.com/work/surgical-ergonomics/)
-- **Behavioral neurobiology:** scored mouse behavior from video, checked automated tracking by hand, and analyzed data in GraphPad Prism.
-- **Protein molecular dynamics:** cleaned protein-simulation data and wrote checks for the physical plausibility of proposed structures.
+**What can AI agents actually build, and how do you know it's good?**
+- **Hamon Engine** *(private source)*: a Rust + wgpu engine built for AI agents to drive, with typed ECS commands, deterministic replay and agent control. Quality is held by numeric gates rather than eyeballed renders: a humanoid character creator, and native animation and drawing tools.
+- **[Wildside](https://jacobmetoyer.com/wildside/)**: turning a real place into a painted world you can walk through. Playable in the browser.
+- **Agent systems at scale**: coordinating many autonomous agents on real work, and measuring what they produce.
 
-Research contributions are collaborative. Synthetic demos are not evidence of clinical validity. More at [jacobmetoyer.com](https://jacobmetoyer.com/lobby/#research).
+**How do we tell explanations apart?**
+- **[WORLDLAW](https://github.com/Jacob-Met/worldlaw)**: competing models that fit the same data, and the measurement that would separate them.
+- **[NULLGARDEN](https://github.com/Jacob-Met/nullgarden)**: executable negative controls for scientific ML. Does that AUC survive when the signal is removed?
+- **[Kernel Garden](https://jacobmetoyer.com/lobby/#kernel-garden)**: can a faster GPU kernel keep the right answer? Generated candidates, run on a real GPU, checked independently.
+- **Computational memory**: when should a system change what it remembers?
 
-### Now
+**How do bodies move, and how do we measure it?**
+- **Gait and rehabilitation**: participant sessions, motion-capture marker labeling, and fixes to gait-analysis code.
+- **Surgical ergonomics**: video-tracking workflows, and recording and analysis of muscle activity, heart rate and movement. [Overview](https://jacobmetoyer.com/work/surgical-ergonomics/)
+- **[CaptureSuite](https://github.com/Jacob-Met/CaptureSuite)**: multimodal research capture built for that kind of session.
+- **Behavioral neurobiology** and **protein molecular dynamics**: scoring and checking behavior tracking by hand, and plausibility checks on simulated protein structures.
 
-- **[Hamon](https://hamon.works/)**: my studio. Tools for AI, experiences for people.
-- **Hamon Engine** *(private source)*: a Rust + wgpu engine built for AI agents to drive, with typed ECS commands, deterministic replay and agent control. Current work includes a humanoid character creator held to numeric quality gates, and native animation and drawing tools.
-- **[Wildside](https://jacobmetoyer.com/wildside/)**: a painted place you can walk through, rendered by the engine. Playable in the browser.
+**Worlds and stories**
 - **[Spire of Octaves](https://spireofoctaves.com/)**: my fiction world, growing into games and stories.
+
+Lab contributions are collaborative. Synthetic demos are not evidence of clinical validity. More at [jacobmetoyer.com](https://jacobmetoyer.com/lobby/#research).
 
 ### Selected public work
 
