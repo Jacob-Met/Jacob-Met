@@ -1,8 +1,8 @@
-<img alt="Jacob Metoyer. Observe, model, question. Everything I make is research. Close-up of a katana blade and its temper line, rendered with Hamon Engine." src="./assets/profile-banner.webp" width="100%">
+<img alt="Jacob Metoyer. Researcher. Observe, model, question. Close-up of a katana blade and its temper line, rendered with Hamon Engine." src="./assets/profile-banner.webp" width="100%">
 
 ## Hi, I'm Jacob.
 
-CS + physics at Cal State Long Beach (biology minor), BUILD Scholar working toward MD/PhD training. Everything I make is research: how do we observe a system, test an idea, and learn from what doesn't fit? I work on that in academic labs and independently through [Hamon](https://hamon.works/), where I direct AI agents to build engines, worlds and instruments. Checks come before claims: runnable demos, public source where possible, and explicit limits.
+CS + physics at Cal State Long Beach (biology minor), BUILD Scholar working toward MD/PhD training. I'm a researcher: I ask how we observe a system, test an idea, and learn from what doesn't fit. I do that in academic labs and independently through [Hamon](https://hamon.works/), where I direct AI agents to build engines, worlds and instruments. Checks come before claims: runnable demos, public source where possible, and explicit limits.
 
 ### Research
 
