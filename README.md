@@ -1,8 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-banner-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/profile-banner-light.svg">
-  <img alt="Jacob Metoyer. Observe, model, question. Everything I make is research. A katana showing its temper line." src="./assets/profile-banner-light.svg">
-</picture>
+<img alt="Jacob Metoyer. Observe, model, question. Everything I make is research. A katana rendered with Hamon Engine, showing its temper line." src="./assets/profile-banner.png" width="100%">
 
 ## Hi, I'm Jacob.
 
