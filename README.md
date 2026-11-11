@@ -1,4 +1,4 @@
-<img alt="Jacob Metoyer. Observe, model, question. Everything I make is research. A katana rendered with Hamon Engine, showing its temper line." src="./assets/profile-banner.png" width="100%">
+<img alt="Jacob Metoyer. Observe, model, question. Everything I make is research. Close-up of a katana blade and its temper line, rendered with Hamon Engine." src="./assets/profile-banner.webp" width="100%">
 
 ## Hi, I'm Jacob.
 
