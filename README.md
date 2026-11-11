@@ -14,7 +14,7 @@ CS + physics at Cal State Long Beach (biology minor), BUILD Scholar working towa
 **How do we tell explanations apart?**
 - **[WORLDLAW](https://github.com/Jacob-Met/worldlaw)**: competing models that fit the same data, and the measurement that would separate them.
 - **[NULLGARDEN](https://github.com/Jacob-Met/nullgarden)**: executable negative controls for scientific ML. Does that AUC survive when the signal is removed?
-- **[Kernel Garden](https://jacobmetoyer.com/lobby/#kernel-garden)**: can a faster GPU kernel keep the right answer? Generated candidates, run on a real GPU, checked independently.
+- **[Kernel Garden](https://jacobmetoyer.com/research/#kernel-garden)**: can a faster GPU kernel keep the right answer? Generated candidates, run on a real GPU, checked independently.
 - **Computational memory**: when should a system change what it remembers?
 
 **How do bodies move, and how do we measure it?**
@@ -26,7 +26,7 @@ CS + physics at Cal State Long Beach (biology minor), BUILD Scholar working towa
 **Worlds and stories**
 - **[Spire of Octaves](https://spireofoctaves.com/)**: my fiction world, growing into games and stories.
 
-Lab contributions are collaborative. Synthetic demos are not evidence of clinical validity. More at [jacobmetoyer.com](https://jacobmetoyer.com/lobby/#research).
+Lab contributions are collaborative. Synthetic demos are not evidence of clinical validity. More at [jacobmetoyer.com](https://jacobmetoyer.com/research/).
 
 ### Selected public work
 
