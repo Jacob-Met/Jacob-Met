@@ -19,7 +19,6 @@ CS + physics at Cal State Long Beach (biology minor), BUILD Scholar working towa
 
 **How do bodies move, and how do we measure it?**
 - **Gait and rehabilitation**: participant sessions, motion-capture marker labeling, and fixes to gait-analysis code.
-- **Surgical ergonomics**: video-tracking workflows, and recording and analysis of muscle activity, heart rate and movement. [Overview](https://jacobmetoyer.com/work/surgical-ergonomics/)
 - **[CaptureSuite](https://github.com/Jacob-Met/CaptureSuite)**: multimodal research capture built for that kind of session.
 - **Behavioral neurobiology** and **protein molecular dynamics**: scoring and checking behavior tracking by hand, and plausibility checks on simulated protein structures.
 
