@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-banner-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/profile-banner-light.svg">
-  <img alt="Jacob Metoyer — research, computation, software, and making" src="./assets/profile-banner-light.svg">
+  <img alt="Jacob Metoyer. Observe, model, question. Everything I make is research." src="./assets/profile-banner-light.svg">
 </picture>
 
 ## Hi, I'm Jacob.
